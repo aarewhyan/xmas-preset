@@ -51,7 +51,7 @@
 			<!-- Feste Werte -->
 			<key key="xmas:feature" value="pyramid" />
 			<!-- Variable Werte -->
-			<text key="xmas:name" text="Name" default="" delete_if_empty="true" />
+			<text key="xmas:name" text="Name" default="" delete_if_empty="true" deprecated="yes"/>
 			<text key="xmas:location" text="Location" de.text="Lage" default="" delete_if_empty="true" />
 			<text key="xmas:day_date" text="Date range" de.text="Datumsbereich" default="" delete_if_empty="true" />
 			<text key="xmas:opening_hours" text="Opening hours (xmas)" de.text="Öffnungszeiten (xmas)" default="" delete_if_empty="true" value_type="opening_hours" />
