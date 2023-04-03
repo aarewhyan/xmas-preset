@@ -29,7 +29,7 @@
 			<text key="xmas:url" text="Website" default="" delete_if_empty="true" value_type="website" />
 			<text key="xmas:note" text="Note" default="" delete_if_empty="true" />
 		</item>
-		<item name="Christmas event" de.name="Weihnachtsanlass" icon="${ICONPATH}event.${ICONTYPE}" item_sort="yes">
+		<item name="Christmas event" de.name="Weihnachtsanlass" icon="${ICONPATH}event.${ICONTYPE}" items_sort="yes">
 			<link href="http://wiki.openstreetmap.org/wiki/Key:xmas:feature"
 				de.href="http://wiki.openstreetmap.org/wiki/DE:Key:xmas:feature"
 				fr.href="http://wiki.openstreetmap.org/wiki/FR:Key:xmas:feature" />
