@@ -44,7 +44,7 @@
 			<text key="opening_hours" text="Opening hours" de.text="Öffnungszeiten" default="" delete_if_empty="true" />
 			<text key="xmas:url" text="Website" default="" delete_if_empty="true" value_type="website" />			
 		</item>
-		<item name="Christmas pyramid" deprecated="yes" icon="${ICONPATH}pyramid.${ICONTYPE}">
+		<item name="Christmas pyramid" icon="${ICONPATH}pyramid.${ICONTYPE}">
 			<link href="http://wiki.openstreetmap.org/wiki/Key:xmas:feature"
 				de.href="http://wiki.openstreetmap.org/wiki/DE:Key:xmas:feature"
 				fr.href="http://wiki.openstreetmap.org/wiki/FR:Key:xmas:feature" />
